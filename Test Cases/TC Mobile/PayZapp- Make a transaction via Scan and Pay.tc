@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PayZapp- Make a transaction via Scan and Pay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ffdb7c4-3440-4995-a0a0-339c3a782f17</testCaseGuid>
+</TestCaseEntity>
