@@ -1,6 +1,5 @@
-# katalon-qrcode-sample
 
-# Introduction:**
+# Introduction
 
 This project demonstrates how katalon studio helps users can handle QR code scanner for the Mobile device. it contains a test case which can help user to pick a QR code from gallary and scan the same via scanner.
 
