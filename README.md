@@ -1,37 +1,38 @@
 # katalon-qrcode-sample
 
-**Introduction:**
+# Introduction:**
 
-In this article we are focusing on how katalon studio helps users can handle QR code scanner with the Katalon Studio
+This project demonstrates how katalon studio helps users can handle QR code scanner for the Mobile device. it contains a test case which can help user to pick a QR code from gallary and scan the same via scanner.
 
-**Let’s begin-**
-**Use case: **
+# Use case
 
 Make a payment by scanning the QR code from the gallery.
 
-**Prerequisite:**
+# Prerequisite
 
-Users should have their mobile device up and ready for the QR code scan.
+* Katalon Studio
 
-**Test scenarios:**
+*Users should have their mobile device up and ready for the QR code scan.
 
-Open a mobile app
+# Use Cases
 
-Make a payment via QR code scanner option
+* Open a mobile app
 
-Select QR code from gallery/photos
+* Make a payment via QR code scanner option
 
-Enter the amount and make the payment.
+* Select QR code from gallery/photos
 
-How to automate:
+* Enter the amount and make the payment.
 
-Record test script via katalon recorder.
+# How to automate
 
-Save test objects and test cases.
+* Record test script via katalon recorder.
 
-Run the test on the browser.
+* Save test objects and test cases.
 
-Verify the test result.
+* Run the test on the browser.
+
+* Verify the test result.
 
 **Repository for the Sample Project:**
 https://github.com/katalon-studio-samples/katalon-qrcode-sample.git
