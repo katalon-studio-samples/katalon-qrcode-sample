@@ -12,7 +12,7 @@ Make a payment by scanning the QR code from the gallery.
 
 * Katalon Studio
 
-*Users should have their mobile device up and ready for the QR code scan.
+* Users should have their mobile device up and ready for the QR code scan.
 
 # Use Cases
 
