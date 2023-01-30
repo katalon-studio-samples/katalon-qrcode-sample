@@ -13,6 +13,8 @@ Make a payment by scanning the QR code from the gallery.
 
 * Users should have their mobile device up and ready for the QR code scan.
 
+* Test device Should have .apk installed
+
 # Use Cases
 
 * Open a mobile app
