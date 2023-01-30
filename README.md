@@ -9,7 +9,7 @@ Make a payment by scanning the QR code from the gallery.
 
 # Prerequisite
 
-* Katalon Studio
+* [Katalon Studio][KS]
 
 * Users should have their mobile device up and ready for the QR code scan.
 
@@ -38,4 +38,4 @@ Make a payment by scanning the QR code from the gallery.
 **Repository for the Sample Project:**
 https://github.com/katalon-studio-samples/katalon-qrcode-sample.git
 
-Thanks.
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
