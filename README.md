@@ -35,7 +35,8 @@ Make a payment by scanning the QR code from the gallery.
 
 * Verify the test execution result. [Here][6]
 
-**Repository for the [Sample Project][SP]:**
+
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/katalon-qrcode-sample.git> "Sample Project"
 
