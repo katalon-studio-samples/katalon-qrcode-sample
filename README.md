@@ -27,15 +27,19 @@ Make a payment by scanning the QR code from the gallery.
 
 # How to automate
 
-* Record test script via katalon recorder.
+* Record test script via Katalon Recorder. [Here][3]
 
-* Save test objects and test cases.
+* Save test objects and test cases. 
 
-* Run the test on the browser.
+* Run the test execution. [Here][5]
 
-* Verify the test result.
+* Verify the test execution result. [Here][6]
 
-**Repository for the Sample Project:**
-https://github.com/katalon-studio-samples/katalon-qrcode-sample.git
+**Repository for the [Sample Project][SP]:**
 
+[SP]: <https://github.com/katalon-studio-samples/katalon-qrcode-sample.git> "Sample Project"
+
+[3]: <https://docs.katalon.com/docs/author/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio#record-a-new-test-case> "Here"
+[5]: <https://docs.katalon.com/docs/execute/execute-tests-with-katalon-studio/execute-tests-with-katalon-studio-overview#ariaid-title1> "Here"
+[6]: <https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-results-and-execution-logs-in-katalon-testops#ariaid-title1> "Here"
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
