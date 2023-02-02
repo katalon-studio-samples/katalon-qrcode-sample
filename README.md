@@ -11,9 +11,9 @@ Make a payment by scanning the QR code from the gallery.
 
 * [Katalon Studio][KS]
 
-* Users should have their mobile device up and ready for the QR code scan.
+* Please Install PayZapp for Play store
 
-* Test device should have .apk installed
+* Connect Real device with computer.
 
 # Use Cases
 
