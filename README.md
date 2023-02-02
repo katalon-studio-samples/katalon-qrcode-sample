@@ -11,9 +11,9 @@ Make a payment by scanning the QR code from the gallery.
 
 * [Katalon Studio][KS]
 
-* Please Install PayZapp for Play store
+* Install PayZapp for Play store.
 
-* Connect Real device with computer.
+* Open Emulator/Real devices.
 
 # Use Cases
 
